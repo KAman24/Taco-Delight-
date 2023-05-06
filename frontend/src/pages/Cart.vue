@@ -261,7 +261,7 @@ export default {
 }
 
 .item-name {
-    color: #27ae60
+    color: #2727ae
 }
 
 .cart-product-img {
