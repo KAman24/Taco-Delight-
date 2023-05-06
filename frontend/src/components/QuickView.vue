@@ -127,7 +127,7 @@ export default {
 
 .quick-view .quick-view-inner h2 {
     margin: 0;
-    font-size: 32px;
+    font-size: 34px;
     color: #27ae60;
 }
 
