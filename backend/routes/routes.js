@@ -1,6 +1,4 @@
-// import express 
 import express from "express";
-// import functions from controller 
 import {
     showFoods,
     showFoodById,
