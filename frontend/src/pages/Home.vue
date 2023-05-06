@@ -238,8 +238,8 @@ export default {
 .home-banner .row-banner .content span {
     font-family: 'Satisfy', cursive;
     font-size: 4rem;
-    color: #27ae60;
-    color: #130f40;
+    color: #2788ae;
+    color: #524d8c;
 }
 
 .home-banner .row-banner .content h3 {
