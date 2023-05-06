@@ -1,2 +1,2 @@
 # Taco-Delight-
-Taco Delight is a Personlized Web App created for restaurant 
+Taco Delight is a Personalized Web App created for restaurant 
